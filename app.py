@@ -33,8 +33,8 @@ menu = st.sidebar.radio("📂 Modules disponibles :", [
     
 ])
 st.sidebar.markdown("---")
-st.sidebar.markdown("👤 [Profil GitHub](https://github.com/anasjannaj)")
-st.sidebar.markdown("📬 Contact : anas@example.com")
+st.sidebar.markdown("👤 [Profil GitHub](https://github.com/anas-jn)")
+st.sidebar.markdown("📬 Contact : anasjannajoff@gmail.com")
 
 # 🏠 Agent IA Chat
 if menu == "🏠 Accueil - Agent IA Chat":
